@@ -1,9 +1,6 @@
 ### Hi there 👋
+https://user-images.githubusercontent.com/75235451/183243428-8338f5e3-8ada-44b0-b520-45cb77c971f5.mp4
 
-<!--
-**22044/22044** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
