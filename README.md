@@ -1,5 +1,7 @@
 ### Hi there 👋
-![Uploading Harshil's GITHUB PROFILE.gif…]()
+
+https://user-images.githubusercontent.com/75235451/183247143-b8e15e8d-0780-4280-a955-5769174b43f7.mp4
+
 
 - 🔭 I’m currently working on Data Analysis
 - 🌱 I’m currently learning Machine Learning
