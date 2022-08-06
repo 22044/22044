@@ -6,7 +6,7 @@ https://user-images.githubusercontent.com/75235451/183247143-b8e15e8d-0780-4280-
 <h5 align="center">Webapp Devlopment <br></h5>
 <h5 align="center">Data Analytics    <br>
 <h5 align="center">Desktop Applications <br>
-
+<br><br>
 
 <h1 align="center">Contact</h2>
 <h5 align="center">Mail             : savajharshil99@gmail.com </br></h5>
