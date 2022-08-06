@@ -9,7 +9,7 @@ https://user-images.githubusercontent.com/75235451/183247143-b8e15e8d-0780-4280-
 
 
 <h2 align="center">Contact</h2>
-<h5 align="center">Contact Me       : savajharshil99@gmail.com </br></h5>
+<h5 align="center">Mail             : savajharshil99@gmail.com </br></h5>
 <h5 align="center">Quora            : https://www.quora.com/profile/Harshil-Savaj</br></h5>
 <h5 align="center">linkedin         : https://www.linkedin.com/in/harshil-savaj-6477b6207/<br></h5>
 <h5 align="center">github           : https://github.com/22044</h5>
