@@ -23,16 +23,11 @@
  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/harshil1403">
- <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harshil1403" /></a></p><br><br>
 <!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshil1030&show_icons=true&locale=en&layout=compact" alt="harshil1030" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshil1030&show_icons=true&locale=en" alt="harshil1030" /></p>
  -->
-
-
 <h1 style="bold">Intrests</h2>
 Webapp Devlopment <br>
 Data Analytics    <br>
@@ -44,6 +39,10 @@ Mail             : savajharshil99@gmail.com </br>
 Quora            : https://www.quora.com/profile/Harshil-Savaj</br>
 <!-- linkedin         : https://www.linkedin.com/in/harshil-savaj-6477b6207/<br> -->
 github           : https://github.com/22044
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/harshil1403">
+ <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harshil1403" /></a></p><br><br>
 
 
 
