@@ -1,7 +1,7 @@
 ###                                               <h1 align ="center"> Hello World ! 👋 </h1>
-<br>
+
  https://user-images.githubusercontent.com/75235451/183247143-b8e15e8d-0780-4280-a955-5769174b43f7.mp4
-<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshil1030&label=Profile%20views&color=0e75b6&style=flat" alt="harshil1030" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshil1030" alt="harshil1030"/></a> </p>
@@ -42,7 +42,7 @@ Desktop Applications <br>
 <h1 >Contact</h2>
 Mail             : savajharshil99@gmail.com </br>
 Quora            : https://www.quora.com/profile/Harshil-Savaj</br>
-linkedin         : https://www.linkedin.com/in/harshil-savaj-6477b6207/<br>
+<!-- linkedin         : https://www.linkedin.com/in/harshil-savaj-6477b6207/<br> -->
 github           : https://github.com/22044
 
 
