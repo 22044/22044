@@ -42,7 +42,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshil1030&show_icons=true&locale=en" alt="harshil1030" /></p>
  -->
-<h1 style="bold">Intrests</h2>
+<h1 style="bold">Interests</h2>
 Webapp Devlopment <br>
 Data Analytics    <br>
 Desktop Applications <br>
