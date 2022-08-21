@@ -6,6 +6,8 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshil1030&theme=oldie" alt="harshil1030"/></a> </p> -->
 <h3 align="left">Connect with me:</h3>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="harshil-savaj-6477b6207" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/harshil-savaj-6477b6207?trk=profile-badge">Harshil Savaj</a></div>
+              
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/harshil-savaj-6477b6207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshil savaj" height="30" width="40" /></a>
 </p>
