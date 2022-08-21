@@ -6,6 +6,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshil1030&theme=oldie" alt="harshil1030"/></a> </p> -->
 <h3 align="left">Connect with me on LinkedIn:</h3>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="harshil-savaj-6477b6207" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/harshil-savaj-6477b6207?trk=profile-badge">Harshil Savaj</a></div>
               
 <!-- 
