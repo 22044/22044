@@ -52,7 +52,7 @@ Desktop Applications <br>
 Mail             : savajharshil99@gmail.com </br>
 Quora            : https://www.quora.com/profile/Harshil-Savaj</br>
 <!-- linkedin         : https://www.linkedin.com/in/harshil-savaj-6477b6207/<br> -->
-github           : https://github.com/22044
+github           : https://github.com/22044 <br>
 <!--
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/harshil1403">
