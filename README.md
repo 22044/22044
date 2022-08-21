@@ -49,7 +49,7 @@ Desktop Applications <br>
 <br><br>
 
 <h1 >Contact</h2>
-Mail             : savajharshil99@gmail.com 
+Mail             : savajharshil99@gmail.com <br>
 Quora            : https://www.quora.com/profile/Harshil-Savaj</br>
 <!-- linkedin         : https://www.linkedin.com/in/harshil-savaj-6477b6207/<br> -->
 github           : https://github.com/22044 <br>
