@@ -46,7 +46,7 @@
 Deep learning <br>
 Machine Learning    <br>
 Natural language Processing <br>
-Data Analytics
+Data Analytics <br>
 DSA
 <br><br>
 
