@@ -43,16 +43,16 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshil1030&show_icons=true&locale=en" alt="harshil1030" /></p>
  -->
 <h1 style="bold">Interests</h2>
-Webapp Devlopment <br>
-Data Analytics    <br>
-Desktop Applications <br>
+Deep learning <br>
+Machine Learning    <br>
+Natural language Processing <br>
+Data Analytics
+DSA
 <br><br>
 
 <h1 >Contact</h2>
 Mail             : savajharshil99@gmail.com <br>
 Quora            : https://www.quora.com/profile/Harshil-Savaj</br>
-<!-- linkedin         : https://www.linkedin.com/in/harshil-savaj-6477b6207/<br> -->
-github           : https://github.com/harshil1030 <br>
 <!--
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/harshil1403">
